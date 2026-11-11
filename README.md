@@ -32,4 +32,4 @@ This project is licensed under the MIT License.
 - [Najah Tartoussi](mailto:najahtartoussi30@gmail.com)
 - [Wafaa shakir](mailto:wafaa.shakir@devinici.fr)
 - [Bouchra Tartoussi](mailto:bouchratartoussi@gmail.com)
-- [Baraa Altayebrrafei](mailto:baraa.eltayeblrafei@isae.edu.lb)
+- [Baraa Altayebrrafei](mailto:baraa.eltayebelrafei@isae.edu.lb)
